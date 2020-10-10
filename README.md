@@ -1,6 +1,6 @@
-# Interface Netflix🙃
+# Clone Interface Netflix🙃
 
-Projeto - Criando Jogo da Memória com JS, Jquery + CSS :yellow_heart:
+Projeto Clone interface Netflix -  JS, Jquery + CSS :yellow_heart:
 
 ### Tecnologias Usadas
 
